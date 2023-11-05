@@ -1,0 +1,214 @@
+● Unsupervised Learning: 
+https://colab.research.google.com/drive/17zbrVWZxou84pp_fosZ_eZ7wpC1TBh5g?usp=sharing
+● Explainable AI: 
+https://colab.research.google.com/drive/1YAPVVFVm--4xO-BH-93O9CaHKzM9tL-c?usp=sharing
+● Movie Idea Generator: 
+https://theyash27.github.io/movie_idea_generator/
+● GPT-4 Chatbot: https://theyash27.github.io/GPT-4_chatbot/
+● Chatbot built with A Fine-Tuned Model:
+https://theyash27.github.io/chatbot_fine_tuned_model/
+● Website Hero Section with ChatGPT:
+https://github.com/TheYash27/website_hero_section_with_ChatGPT
+● Subscription Sign-Up Form with ChatGPT:
+https://github.com/TheYash27/subscription_sign_up_form_with_ChatGPT
+● Log-In Button with ChatGPT:
+https://github.com/TheYash27/login_button_with_ChatGPT
+● Interactive Event Invite with ChatGPT:
+https://github.com/TheYash27/interactive_event_invite_with_ChatGPT
+● Drum Kit Application with ChatGPT:
+https://github.com/TheYash27/drum_kit_application_with_ChatGPT
+● Cake Raffle Application with ChatGPT:
+https://github.com/TheYash27/cake_raffle_application_with_ChatGPT
+● Solving Classic FizzBuzz with ChatGPT:
+https://github.com/TheYash27/solving_classic_FizzBuzz_with_ChatGPT
+● Simple Modal with an Optimized Prompt with ChatGPT:
+https://github.com/TheYash27/simple_modal_with_ChatGPT
+● Seltzer Flavor Generator with ChatGPT:
+https://github.com/TheYash27/Seltzer_flavor_generator_with_ChatGPT
+● Review and Analyze a Code Solution with ChatGPT:
+https://github.com/TheYash27/review_analyze_code_solution_with_ChatGPT
+● Haiku-ish Generator with ChatGPT:
+https://github.com/TheYash27/haiku-ish_generator_with_ChatGPT
+● Form with pseudo-language with ChatGPT:
+https://github.com/TheYash27/form_pseudo_language_with_ChatGPT
+● Debugging and Error Messages with ChatGPT:
+https://github.com/TheYash27/debugging_error_messages_with_ChatGPT
+● Convert Code with ChatGPT:
+https://github.com/TheYash27/convert_code_with_ChatGPT
+● Code using a pseudo-language with ChatGPT:
+https://github.com/TheYash27/code_pseudo_language_with_ChatGPT
+● Build your own MEV Searcher using Flashbots:
+https://github.com/TheYash27/my_own_MEV_searcher_flashbots
+● Using meta-transactions to pay for your users' Gas:
+https://github.com/TheYash27/meta_transactions_pay_users_gas
+● Identifying genuine-looking Contracts which are actually malicious:
+https://github.com/TheYash27/genuine-looking_contracts_actually_malicious
+● NEVER use tx.origin again: https://github.com/TheYash27/tx.origin
+● Guess The Magic Word:
+https://sepolia.etherscan.io/address/0x2Bee5E7023dAa058515B15B1F3964cf3f4e52341
+● Borrow millions w/o Collateral from Aave using Flash Loans:
+https://github.com/TheYash27/millions_with_0_collateral_Aave_flash_loans
+● Access Private Data in Smart Contracts:
+https://github.com/TheYash27/private_data_smart_contracts
+● Run Code from other Contracts inside your own using delegatecall:
+https://github.com/TheYash27/run_code_other_contracts_inside_our_own_delegatecall
+● Generating random numbers on-chain:
+https://github.com/TheYash27/generating_random_numbers_on_chain
+● Executing a Denial of Service on a Smart Contract:
+https://github.com/TheYash27/denial_of_service_smart_contract
+● Build a social Web 3.0 game on Lens Protocol:
+https://github.com/TheYash27/social_Web3.0_game_Lens_Protocol
+● Re-entrancy Bug: https://github.com/TheYash27/re-entrancy
+● Borrow millions w/o Collateral from Aave using Flash Loans:
+https://github.com/TheYash27/millions_with_0_collateral_Aave_flash_loans
+● Access Private Data in Smart Contracts:
+https://github.com/TheYash27/private_data_smart_contracts
+● 10K NFT Collection:
+https://github.com/TheYash27/DApp_World_super_mentors_program/tree/main/10KNF
+TCollection
+● Advanced Storage:
+https://github.com/TheYash27/DApp_World_super_mentors_program/blob/main/Advanc
+edStorage.sol
+● CRUD (Create, Read, Update, Delete):
+https://github.com/TheYash27/DApp_World_super_mentors_program/blob/main/CRUD.
+sol
+● Crypto Trading Bot for Bitcoin (BTC) with Node.js and Binance API:
+https://github.com/TheYash27/crypto_trading_bot
+● Yul: https://github.com/TheYash27/Yul
+● Central Bank Digital Currency (CBDC):
+https://github.com/TheYash27/DApp_World_super_mentors_program/blob/main/CBDC.
+sol
+● Token on Binance Smart Chain (BSC):
+https://github.com/TheYash27/DApp_World_super_mentors_program/blob/main/TokenB
+SC.sol
+● ENS domain into my dApp: https://ens-domain-into-my-d-app.vercel.app/
+● Read BlockChain data using JS:
+https://github.com/TheYash27/read_BlockChain_data_JS
+● Decentralized Exchange (dEx) Front-End: https://github.com/TheYash27/dEx-front-end
+● Decentralized Exchange Back-End: https://github.com/TheYash27/dEx-back-end
+● Decentralized Twitter: https://github.com/TheYash27/decentralized_Twitter
+● Fully On-Chain DAO Back-End:
+https://github.com/TheYash27/fully_on_chain_DAO_back-end
+● Fully On-Chain DAO Front-End:
+https://github.com/TheYash27/fully_on_chain_DAO_front-end
+● Token Swap dApp-My dEx Aggregator:
+https://github.com/TheYash27/token_swap_dApp
+● Chainlink API's + smart contract:
+https://gist.github.com/TheYash27/6088609b671f381729dac1d2429eb458
+● NFT Gallery: https://github.com/TheYash27/NFT_gallery
+● Full NFT Collection: https://nft-collection-seven-woad.vercel.app/
+● Full Whitelist dApp: https://github.com/TheYash27/whitelist_dApp
+● Buy - Me - A - Coffee DeFi dApp:
+https://github.com/TheYash27/buy_me_a_coffee_DeFi_dApp
+● Completely Dynamic NFT's With On - Chain Metadata:
+https://github.com/TheYash27/ChainBattles
+● Cryptocurrency:
+https://github.com/TheYash27/DApp_World_super_mentors_program/blob/main/Cryptoc
+urrency.sol
+● NFT:
+https://github.com/TheYash27/DApp_World_super_mentors_program/blob/main/NFT.sol
+● dApp:
+https://github.com/TheYash27/DApp_World_super_mentors_program/blob/main/dApp.s
+ol
+● Analysis of the Misalignment Condition for 3 - phase Induction Motor - connected
+conveyor - belt gear - drive:
+https://drive.google.com/file/d/1jF2mFryTIM3eGl2CAWjuUBooUnzYlYQS/view?usp=s
+haring
+● Controlling LED:
+https://drive.google.com/file/d/11LI3DPpIg6J7NRxtPpZGA9vUWzOQkohC/view?usp=s
+haring
+● E-Mail Alerts from a Smart Farm:
+https://ifttt.com/applets/epVxwn4z-if-maker-event-pump_actuated-then-send-me-an-emai
+l-at-f20201429-goa-bits-pilani-ac-in
+● Chatbot/Smart Assistant:
+https://ifttt.com/applets/ad8y6Wjw-if-maker-event-button_pressed-then-send-data-to-ono
+ff-feed
+● Voting Machine: https://github.com/TheYash27/voting_machine
+● Vending Machine: https://github.com/TheYash27/vending_machine
+● Traffic Light Controller: https://github.com/TheYash27/traffic_light_controller
+● Single Port RAM: https://github.com/TheYash27/single_port_RAM
+● Round Robin Arbiter: https://github.com/TheYash27/round_robin_arbiter
+● ROM: https://github.com/TheYash27/ROM
+● PWM Shift Register: https://github.com/TheYash27/PWM_shift_register
+● N-Bit BCD Output Multiplier: https://github.com/TheYash27/n_bit_bcd_op_multiplier
+● Hexadecimal Keypad Scanner and Encoder:
+https://github.com/TheYash27/hex_keypad_scanner_encoder
+● Dual Port RAM: https://github.com/TheYash27/dual_port_RAM
+● Clock with Alarm: https://github.com/TheYash27/clock_with_alarm
+● Byte Vedic Multiplier: https://github.com/TheYash27/byte_vedic_multiplier
+● Automatic Washing Machine:
+https://github.com/TheYash27/automatic_washing_machine
+● airbnb Clone: https://github.com/TheYash27/airbnb_clone
+● Tenzies: https://github.com/TheYash27/tenzies
+● Space Exploration Website: https://theyash27.github.io/space_exploration_website/
+● React Site: https://github.com/TheYash27/React_site
+● Personal Webpage: https://theyash27.github.io/personal_webpage/
+● Passenger Counter Application:
+https://theyash27.github.io/passenger_counter_application/
+● Meme Generator: https://github.com/TheYash27/meme_generator
+● Markdown Notes Application:
+https://github.com/TheYash27/markdown_notes_application
+● Google Clone: https://theyash27.github.io/google.com_clone/
+● Chrome Extension: https://github.com/TheYash27/chrome-extension
+● Business Card: https://theyash27.github.io/business_card/
+● BlackJack: https://theyash27.github.io/blackjack/
+● Birthday GIFt Site: https://theyash27.github.io/birthday_GIFt_site/
+● Cookie Consent: https://theyash27.github.io/cookie_consent/
+● Twitter Clone: https://theyash27.github.io/Twitter_clone/
+● Meme Picker: https://github.com/TheYash27/meme_picker
+● Responsive Site: https://glittery-moonbeam-fcf337.netlify.app/
+● Library Website: https://theyash27.github.io/library_website/
+● Movie Idea Generator: https://theyash27.github.io/movie_idea_generator/
+● GPT-4 Chatbot: https://theyash27.github.io/GPT-4_chatbot/
+● Chatbot built with A Fine-Tuned Model:
+https://theyash27.github.io/chatbot_fine_tuned_model/
+● Beginner's Crash Course Challenge Level-2: Earthquake Watch Front-End:
+https://github.com/TheYash27/earthquake_watch_front_end
+● Beginner's Crash Course Challenge Level-2: Earthquake Watch Back-End:
+https://github.com/TheYash27/earthquake_watch_back_end
+● GraphQL: https://github.com/TheYash27/GraphQL
+● Axios | HTTP Library: https://theyash27.github.io/Axios_HTTP_library/
+● Website Hero Section with ChatGPT:
+https://github.com/TheYash27/website_hero_section_with_ChatGPT
+● Subscription Sign-Up Form with ChatGPT:
+https://github.com/TheYash27/subscription_sign_up_form_with_ChatGPT
+● Log-In Button with ChatGPT:
+https://github.com/TheYash27/login_button_with_ChatGPT
+● Interactive Event Invite with ChatGPT:
+https://github.com/TheYash27/interactive_event_invite_with_ChatGPT
+● Drum Kit Application with ChatGPT:
+https://github.com/TheYash27/drum_kit_application_with_ChatGPT
+● Cake Raffle Application with ChatGPT:
+https://github.com/TheYash27/cake_raffle_application_with_ChatGPT
+● Solving Classic FizzBuzz with ChatGPT:
+https://github.com/TheYash27/solving_classic_FizzBuzz_with_ChatGPT
+● Simple Modal with an Optimized Prompt with ChatGPT:
+https://github.com/TheYash27/simple_modal_with_ChatGPT
+● Seltzer Flavor Generator with ChatGPT:
+https://github.com/TheYash27/Seltzer_flavor_generator_with_ChatGPT
+● Review and Analyze a Code Solution with ChatGPT:
+https://github.com/TheYash27/review_analyze_code_solution_with_ChatGPT
+● Haiku-ish Generator with ChatGPT:
+https://github.com/TheYash27/haiku-ish_generator_with_ChatGPT
+● Form with pseudo-language with ChatGPT:
+https://github.com/TheYash27/form_pseudo_language_with_ChatGPT
+● Debugging and Error Messages with ChatGPT:
+https://github.com/TheYash27/debugging_error_messages_with_ChatGPT
+● Convert Code with ChatGPT:
+https://github.com/TheYash27/convert_code_with_ChatGPT
+● Code using a pseudo-language with ChatGPT:
+https://github.com/TheYash27/code_pseudo_language_with_ChatGPT
+● Python and Computer Vision:
+https://github.com/TheYash27/python_computer_vision_bootcamp
+● Routes (Flutter + Navigator):
+https://gist.github.com/TheYash27/a8d295711d66feb451da8e0ae36df6fb
+● Push and Pop (Navigator):
+https://gist.github.com/TheYash27/7d6eb3b758bc1745f3f7b2e328dab610
+● Animations and Navigations (Flutter + Navigator):
+https://gist.github.com/TheYash27/0298cef5eeb2e7ba187a803627750915
+● Beginner's Crash Course Challenge Level-2: Earthquake Watch Front-End:
+https://github.com/TheYash27/earthquake_watch_front_end
+● Beginner's Crash Course Challenge Level-2: Earthquake Watch Back-End:
+https://github.com/TheYash27/earthquake_watch_back_end
+● GraphQL: https://github.com/TheYash27/GraphQL
+● Axios | HTTP Library: https://theyash27.github.io/Axios_HTTP_library/
